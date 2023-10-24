@@ -1,3 +1,7 @@
+This is a fork of the Arduino MKRNB library.
+
+No changes have been made yet.
+
 // Define the repository information in these attributes
 :repository-owner: arduino-libraries
 :repository-name: MKRNB
